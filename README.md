@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">Senior Backend Engineer | Applied AI Engineer | Software Architect</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/krischou" target="_blank" rel="noopener">
+  <a href="https://www.linkedin.com/in/kris-chou-74563338b" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
   </a>
   <a href="mailto:krischou.me@gmail.com" target="_blank" rel="noopener">
