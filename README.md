@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">👋 Hi, I'm Kris Chou</h1>
-<h3 align="center">Senior Backend Engineer | Applied AI Engineer | Software Architect</h3>
+<h3 align="center">Senior Backend&Data Engineer | Applied AI Engineer | Software Architect</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kris-chou-74563338b" target="_blank" rel="noopener">
